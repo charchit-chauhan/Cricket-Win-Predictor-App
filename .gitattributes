@@ -1,6 +1,5 @@
-# Ignore all CSV files in processed data
-data/processed/*.csv
-# Ignore raw data
+data/processed/ball_by_ball_from_yaml.csv
 data/raw/
-# Ignore the model weights (usually too big/binary)
 models/*.pt
+__pycache__/
+.venv/
