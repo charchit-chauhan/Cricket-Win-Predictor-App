@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+data/processed/ball_by_ball_from_yaml.csv
+data/raw/
+models/*.pt
+__pycache__/
+.venv/
